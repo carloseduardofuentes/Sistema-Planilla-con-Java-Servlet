@@ -1,0 +1,1 @@
+<a href="index.jsp" class="menu">Inicio</a> | <a href="persona.jsp" class="menu">Empleados</a> | <a href="./prestamo.jsp" class="menu">Prestamos</a> | <a href="./permiso.jsp" class="menu">Permisos</a> | <a href="admin.jsp" class="menu">Administraci&oacute;n</a>

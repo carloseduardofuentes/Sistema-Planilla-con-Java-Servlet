@@ -1,0 +1,180 @@
+@CHARSET "ISO-8859-1";
+
+
+label {
+	line-height: 20px;
+}
+
+input {
+}
+
+input.texto {
+	width: 40%;
+}
+
+input.codigo {
+	width: 20%;
+}
+
+input.archivo {
+	width: 100%;
+}
+
+input.fecha {
+	width: 30%;
+}
+
+input.numero {
+	width: 30%;
+}
+
+button[type="submit"] {
+	float: left;
+	margin-top: 10px;
+}
+
+.completo button[type="submit"] {
+	float: left;
+	margin-top: 20px;
+}
+
+.formulario {
+	float: left;
+	width: 520px;
+}
+
+.formulario .filas {
+	float: left;
+	width: 320px;
+}
+
+.formulario .botones {
+	float: left;
+	width: 200px;
+}
+
+.formulario .botones .boton {
+	text-align: left;
+}
+
+.completo button {
+	float: left;
+	margin-top: 20px;
+}
+
+fieldset {
+	padding: 0;
+	border: 0;
+}
+
+div.completo {
+	width: 100%;
+	display: block;
+	clear: both;
+}
+
+div.tercio {
+        margin-top: 15px;
+	display: block;
+	width: 100%;
+	float: left;
+}
+
+.ui-th-column {
+	background: none;
+	background-color: #9FB4D5;
+}
+
+.ui-jqgrid-htable .ui-state-default,.ui-jqgrid-htable .ui-widget-content .ui-state-default,.ui-jqgrid-htable .ui-widget-header .ui-state-default
+	{
+	background: none;
+	background-color: #9FB4D5;
+}
+
+.ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight
+	{
+	border: 1px solid #AED0EA;
+	background: none;
+	color: #525555;
+}
+
+table .ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight
+	{
+	border: 1px solid #FFF;
+	background: none;
+	color: #91A339;
+}
+
+.ui-jqgrid .ui-jqgrid-htable th div {
+	line-height: 18px;
+}
+
+.ui-jqgrid tr.jqgrow td {
+	height: 24px;
+	background-color: #D6DBED;
+	border: 1px solid white;
+}
+
+.ui-jqgrid {
+}
+
+.ui-jqgrid .ui-jqgrid-titlebar {
+	padding: .5em;
+}
+
+th div {
+	color: #133985;
+	font-weight: bold;
+}
+
+.ui-jqgrid-view .ui-state-default,.ui-jqgrid-view .ui-widget-content .ui-state-default,.ui-jqgrid-view .ui-widget-header .ui-state-default
+	{
+	background: none;
+	background-color: #9FB4D5 !important;
+}
+
+.ui-jqgrid-view .ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default
+	{
+	border: 1px solid #AED0EA;
+	background: none;
+	background-color: #9FB4D5;
+	font-weight: bold;
+	color: white;
+}
+
+.ui-dialog-buttonset .ui-state-default,.ui-dialog-buttonset .ui-widget-content .ui-state-default,.ui-dialog-buttonset .ui-widget-header .ui-state-default
+	{
+	border: 1px solid #AED0EA;
+	background: none;
+	background-color: #EF8C08;
+	font-weight: bold;
+	color: white;
+}
+
+form { 
+}
+
+#listado {
+	margin-top: 20px;
+}
+
+#divResultado {
+	padding-top: 10px;
+}
+
+.toolbar {
+    width: 775px;
+}
+
+fieldset {
+	width: 100%;
+}
+
+.tabla {
+    cursor: pointer;
+}
+
+.textoPopup {
+    width: 100px;
+    float: left;
+}

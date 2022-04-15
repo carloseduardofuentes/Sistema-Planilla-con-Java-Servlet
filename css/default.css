@@ -1,0 +1,90 @@
+/* CSS Document */
+
+/* Generales */
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+/* V�nculos */
+a:link {
+	color: #000000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+a.menu:link {
+	color: #000000;
+	text-decoration: none;
+}
+a.menu:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a.menu:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+/* Maquetaci�n */
+#encabezado {
+	text-align: left;
+	width: 750px;
+	padding: 3px;
+	background-color: #9DACBF;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+#menu {
+	text-align: right;
+	width: 750px;
+	padding: 3px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #9DACBF;
+}
+#titulo {
+	text-align: left;
+	width: 750px;
+	padding: 3px;
+	font-weight: bold;
+}
+#contenido {
+	width: 750px;
+	padding: 3px;
+}
+#pie {
+	text-align: center;
+	width: 750px;
+	padding: 3px;
+	background-color: #9DACBF;
+	color: #FFFFFF;
+}
+
+/* bordes */
+.bordeinferior {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #9DACBF;
+}
+.borde {
+	border: 1px solid #9DACBF;
+}
+
+/* fuentes */
+.fuente11 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.fuente11der {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-align: right;
+}
